@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  display: flex;
+}
+
+.content {
+  flex: 1;
+  padding: 1em;
+}
